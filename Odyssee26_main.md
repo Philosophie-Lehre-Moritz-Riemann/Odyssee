@@ -13,6 +13,12 @@ narrator: UK English Female
 * Moritz Riemann (<riemann@philsem.uni-kiel.de>)
 * Sprechstunde: Mittwoch 10:15-11:30, Boschstraße 1, R. 01.001
 
+# Angaben
+* Seminar, 2 SWS
+* Zeit und Ort: Di 12:15 - 13:45, LS4 - R.EG. 36
+* Vom 20.10.2026 bis zum 9.2.2027
+
+
 
 **Inhalt**
 
@@ -50,23 +56,25 @@ Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde 
 
 ## Semesterplan
 
-| **24.10.2024** | **Eröffnung, Organisatorisches** | **Protokoll** |
+| **20.10.2026** | **Eröffnung, Organisatorisches** | **Protokoll** |
 |------------|------------------------------|---------|
-| 31.10.2024 | Keine Sitzung: Feiertag |  |
-| 7.11.2024 | Telemachie: Bücher 1 und 2 (Übersetzung: Voß und Schadewaldt) | Cedric Smerling; Simon Promnik |
-| 14.11.2024 | Telemachie: Bücher 3 und 4 (Übersetzung: Wilson und Steinmann) | Maria Kruscha |
-| 21.11.2024 | Kalypso: Buch 5; Phaiaken und Nausikaa: Buch 6| Rana Oukasha | 
-| 28.11.2024 | Odysseus bei den Phaiaken: Buch 7 und 8 | Muhammet Imran Kaya; Shahd Oukasha |
-| 5.12.2024 |Polyphem: Buch 9; Kirke: Buch 10| Carla Aileen Scholz; Ella Zink |
-| 12.12.2024 | Im Totenreich: Buch 11; Sirenen, Skylla und Charybdis. Rinder des Helios: Buch 12| Carla Aileen Scholz; Ella Zink |
-| 19.12.2024| Ankunft auf Ithaka: Buch 13; Eumaios: Buch 14| Kira Kremser; Anita Ljimani |
-| 9.01.2025 | Telemachos bei Eumaios: Buch 15; Telemachos erkennt Odysseus: Buch 16 | -- |
-| 16.01.2025 | Keine Sitzung: Selbststudium Bücher 17-19 | -- |
-| 23.01.2025| Wiedererkennung und Tod den Freiern: 20-22 | -- |
-| 30.01.2025| Penelope: Buch 23-24| -- |
-| 6.2.2025 | **Abschlussdiskussion** |  |
+| 27.10.2026 | |-- |
+| 03.11.2026 | |-- |
+| 10.11.2026 | |-- |
+| 17.11.2026 | |-- | 
+| 24.11.2026 | |-- |
+| 01.12.2026 | |-- |
+| 08.12.2026 | | -- |
+| 15.12.2026 | | -- |
+| 21.12.2026 - 03.01.2027 | **unterrichtsfrei**| |--|
+| 05.01.2027 | | -- |
+| 12.01.2027 | | -- |
+| 19.01.2027 | | -- |
+| 26.01.2027 | | -- |
+| 02.02.2027 | | -- |
+| 09.02.2027 |**Abschlussdiskussion** |  |
 
-**unterrichtsfrei: 23.12.2024-04.01.2025**
+**unterrichtsfrei: 23.12.2026-04.01.2027**
 
 ## Hinweise für das Verfassen von Sitzungsprotokollen
 
