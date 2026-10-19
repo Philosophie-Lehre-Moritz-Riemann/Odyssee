@@ -11,12 +11,12 @@ narrator: UK English Female
 # Homer: Odyssee (050287)
 
 * Moritz Riemann (<riemann@philsem.uni-kiel.de>)
-* Sprechstunde: Mittwoch 10:15-11:30, Boschstraße 1, R. 01.001
+* Sprechstunde: Montag 16:15-17:30, Boschstraße 1, R. 01.001
 
 # Angaben
 * Seminar, 2 SWS
 * Zeit und Ort: Di 12:15 - 13:45, LS4 - R.EG. 36
-* Vom 20.10.2026 bis zum 9.2.2027
+* Vom 20.10.2026 bis zum 2.2.2027
 
 
 
@@ -26,7 +26,7 @@ Homers Odyssee ist einer der ältesten Texte in griechischer Sprache und erzähl
 
 **Empfohlene Literatur**
 
-Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde ich eine Auswahl über OLAT bereitstellen. Textgrundlage des Seminars ist die Neuübersetzung von Kurt Steinmann. Anzuschaffen: Homer: Odyssee. Übersetzt von Kurt Steinmann. Penguin Random House 2016.
+Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür werde ich eine Auswahl über OLAT bereitstellen. Textgrundlage des Seminars ist die Neuübersetzung von Kurt Steinmann. Anzuschaffen: Homer: Odyssee. Übersetzt von Kurt Steinmann. Penguin Random House 2016.
 
 
 ## "Regierungserklärung"
@@ -34,8 +34,9 @@ Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde 
 1. Die Teilnahme am Seminar erfordert die vorbereitende, gründliche Lektüre der Texte.
 2. Eine regelmäßige und aktive Teilnahme aller Seminarteilnehmenden ist Voraussetzung für ein gelingendes Seminar.
 3. Philosophische Seminare leben vom diskursiven Austausch. Nehmt in Euren Diskussionsbeiträgen auf den Text und aufeinander Bezug, lasst einander ausreden und vermeidet lange, abschweifende Exkurse.
-4. Meine Sprechsstunde (Mittwoch 10:15-11:30) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
-5. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
+4. Das Handy bleibt während der Sitzung in der Tasche. Lektüresitzungen sind analog. Alles, was ihr braucht sind Buch, Stift und Notizpapier.
+5. Meine Sprechsstunde (Montag 16:15-17:30) ist offen für alle Anliegen, es ist keine Anmeldung erforderlich.
+6. Bevor Ihr eine Email schreibt: Seht im Seminarplan nach, ob die gesuchte Information dort zu finden ist.
 
 ## Zuordnung und Prüfungsleistungen
 
@@ -43,7 +44,7 @@ Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde 
   - Ergebnisprotokoll im Umfang von 2-3 Seiten. Das Protokoll soll die wesentlichen Inhalte einer Seminarssitzung ergebnisorientiert und systematisch zusammenfassen. Die Anmeldung zum Protokoll erfolgt zu Beginn der Sitzung. Es ist bis Dienstag, 18 Uhr nach der protokollierten Sitzung im OLAT-Teilnehmerordner hochzuladen und dient damit der Rekapitulation zu Beginn der folgenden Sitzung. Beachten Sie die Handreichung zum Erstellen eines Protokolls im OLAT-Ordner 
 
 * PHF-phil-BA3 (Einführung in die theoretische Philosophie)
-  - Take-Home-Klausur im Umfang von 5-6 Seiten. Die Aufgabenstellung erfolgt in der letzten Sitzung. Abgabe: 31.03.2025
+  - Präsenzklausur in der ersten Woche des Prüfungszeitraums. Termin und Ort werden bekannt gegeben.
 
 * PHF-phil-BA5 (Theoretische Philosophie II – Vertiefung)
   - Hausarbeit im Umfang von 10 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2025
@@ -56,22 +57,22 @@ Die ersten Bücher werden in verschiedenen Übersetzungen lesen. Hierfür werde 
 
 ## Semesterplan
 
-| **20.10.2026** | **Eröffnung, Organisatorisches** | **Protokoll** |
+| **20.10.2026** | **Eröffnung, Organisatorisches, Prooimion** | **Protokoll** |
 |------------|------------------------------|---------|
-| 27.10.2026 | |-- |
-| 03.11.2026 | |-- |
-| 10.11.2026 | |-- |
-| 17.11.2026 | |-- | 
-| 24.11.2026 | |-- |
-| 01.12.2026 | |-- |
-| 08.12.2026 | | -- |
-| 15.12.2026 | | -- |
-| 21.12.2026 - 03.01.2027 | **unterrichtsfrei**| |--|
-| 05.01.2027 | | -- |
-| 12.01.2027 | | -- |
-| 19.01.2027 | | -- |
-| 26.01.2027 | | -- |
-| 02.02.2027 | | -- |
+| 27.10.2026 |Telemachie, Gesänge 1-4 |-- |
+| 03.11.2026 |Kalypso und Nausikaa, Gesänge 5&6 |-- |
+| 10.11.2026 | 9. Gesang: Odysseus, Kikonen, Polyphem |-- |
+| 17.11.2026 | 10. Gesang: Aiolos, Lastrygonen, Kirke  |-- | 
+| 24.11.2026 | 11. Gesang: Unterwelt |-- |
+| 01.12.2026 | 12. Gesang: Sirenen, Skylla und Charybdis, Helios' Rinder |-- |
+| 08.12.2026 | Ankunft auf Ithaka, Gesänge 14&15 | -- |
+| 15.12.2026 | Gesänge 16&17  | -- |
+| 21.12.2026 - 03.01.2027 | **unterrichtsfrei; Über den Jahreswechsel: Lektüre 7,8,13**| |--|
+| 05.01.2027 | Gesänge 18&19 | -- |
+| 12.01.2027 | keine Sitzung: Vollversammlung | -- |
+| 19.01.2027 | Gesänge 20&21 | -- |
+| 26.01.2027 | Gesänge 22&23 | -- |
+| 02.02.2027 | Gesänge 23&24 | -- |
 | 09.02.2027 |**Abschlussdiskussion** |  |
 
 **unterrichtsfrei: 23.12.2026-04.01.2027**
@@ -137,7 +138,7 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
  6. Haben Sie die Sitzungsinhalte gegliedert?
  7. Ist Ihr Text ergebnisorientiert verfasst?
  8. Lassen sich die wichtigsten Inhalte der Sitzung anhand Ihres Textes nachvollziehen? Stellen Sie sich vor, Sie müssten einer Kommiliton:in berichten, die bei der Sitzung fehlte.
- 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .pdf exportiert?
+ 9. Bei digitaler Abgabe: Haben Sie Ihr Dokument als .md und als .pdf exportiert?
 10. Haben Sie alle Punkte der Checkliste berücksichtigt?
 11. Haben Sie Ihr Protokoll auf OLAT in den Abgabeordner geladen?
 
@@ -145,6 +146,7 @@ Quelle: Kirsten Schindler: Klausur, Protokoll, Essay. Kleine Texte optimal verfa
 ### VI. Vorstellung des Protokolls in der nächsten Sitzung
 
 * Bereiten Sie Ihr Protokoll so vor, dass Sie zu Beginn der darauffolgenden Sitzung in 5 Minuten die Inhalte der protokollierten Sitzung für die Seminarteilnehmenden zusammenfassen können.
+* Für das Kursmaterial geben Sie Ihr Protokoll bitte auch als Markdown-Dokument (.md) ab. [Markdown](https://www.markdownguide.org/getting-started/) ist eine sehr einfache Markup-Auszeichnungssprache, in der das Kursmaterial geschrieben ist.
 
 
 
@@ -247,6 +249,11 @@ Wolfgang Schadewaldt: von Homers Welt und Werk. Stuttgart 1951
 >ἤσθιον: αὐτὰρ ὁ τοῖσιν ἀφείλετο νόστιμον ἦμαρ.
 >
 >τῶν ἁμόθεν γε, θεά, θύγατερ Διός, εἰπὲ καὶ ἡμῖν.
+
+
+### Zur nächsten Sitzung
+
+- Lest die Gesänge 2+3 und macht Euch mit dem Inhalt der Gesänge 1+4 vertraut
 
 
 ## 2. Sitzung am 27.10.2026
