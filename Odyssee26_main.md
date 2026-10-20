@@ -253,7 +253,7 @@ Wolfgang Schadewaldt: von Homers Welt und Werk. Stuttgart 1951
 
 ### Zur nächsten Sitzung
 
-- Lest die Gesänge 2+3 und macht Euch mit dem Inhalt der Gesänge 1+4 vertraut
+- Lest die Gesänge 3+4 und macht Euch mit dem Inhalt der Gesänge 1+2 vertraut
 
 
 ## 2. Sitzung am 27.10.2026
