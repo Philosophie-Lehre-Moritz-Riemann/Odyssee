@@ -225,6 +225,9 @@ Gustav Schwab: Die schönsten Sagen des klassischen Alterthums. Nach seinen Dich
 
 Wolfgang Schadewaldt: von Homers Welt und Werk. Stuttgart 1951
 
+## Homer im Internet
+
+* Volltext der Odyssee auf der Seite des [Perseus-Projekts](https://www.perseus.tufts.edu/hopper/text?doc=Perseus%3atext%3a1999.01.0135)
 
 ## 1. Sitzung am 20.10.2026
 
