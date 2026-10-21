@@ -52,7 +52,7 @@ Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür we
 * PHF-phil-WP (Philosophische Reflexion und ethische Urteilskraft)
    - Essay im Umfang von 5-7 Textseiten. Individuelle und eigenständige Themenfindung aus dem Themenbereich des Seminars. Ein persönliches Gespräch mit dem Dozenten (Sprechstunde) zur Vorbereitung ist Voraussetzung für die Annahme der Arbeit. Abgabe: 31.03.2027
 
- * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 31.03.2027. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
+ * Beachten Sie die Handreichung zum wissenschaftlichen Arbeiten im Fach Philosophie. Jedes Referat, jede Hausarbeit und jeder Essay sind im Vorfeld in der Sprechstunde abzustimmen. **Der Abgabetermin für die schriftlichen Prüfungsleistungen ist der 31.03.2027**. Die Abgabe erfolgt als Ausdruck, mit Deckblatt und unterschriebener Eigenständigkeitserklärung an der Hauptpforte oder im Briefkasten für Prüfungsleistungen in der LS4. Keine Abgabe per Email!
 
 
 ## Semesterplan
@@ -72,10 +72,10 @@ Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür we
 | 12.01.2027 | keine Sitzung: Vollversammlung | -- |
 | 19.01.2027 | Gesänge 20&21 | -- |
 | 26.01.2027 | Gesänge 22&23 | -- |
-| 02.02.2027 | Gesänge 23&24 | -- |
-| 09.02.2027 |**Abschlussdiskussion** |  |
+| 02.02.2027 | Gesänge 23&24 - **Abschlussdiskussion** | -- |
 
-**unterrichtsfrei: 23.12.2026-04.01.2027**
+
+**unterrichtsfrei: 21.12.2026-03.01.2027**
 
 ## Hinweise für das Verfassen von Sitzungsprotokollen
 
