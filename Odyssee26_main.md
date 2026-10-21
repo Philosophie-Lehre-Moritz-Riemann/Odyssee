@@ -59,19 +59,19 @@ Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür we
 
 | **20.10.2026** | **Eröffnung, Organisatorisches, Prooimion** | **Protokoll** |
 |------------|------------------------------|---------|
-| 27.10.2026 |Telemachie, Gesänge 1-4 |-- |
-| 03.11.2026 |Kalypso und Nausikaa, Gesänge 5&6 |-- |
-| 10.11.2026 | 9. Gesang: Odysseus, Kikonen, Polyphem |-- |
-| 17.11.2026 | 10. Gesang: Aiolos, Lastrygonen, Kirke  |-- | 
-| 24.11.2026 | 11. Gesang: Unterwelt |-- |
-| 01.12.2026 | 12. Gesang: Sirenen, Skylla und Charybdis, Helios' Rinder |-- |
+| 27.10.2026 |Telemachie, Gesänge 1-4 |Umed Ahmad |
+| 03.11.2026 |Kalypso und Nausikaa, Gesänge 5&6 |Mojda Samadi |
+| 10.11.2026 | 9. Gesang: Odysseus, Kikonen, Polyphem |Nikolai Kruscha |
+| 17.11.2026 | 10. Gesang: Aiolos, Lastrygonen, Kirke  |Liska Grieve | 
+| 24.11.2026 | 11. Gesang: Unterwelt |Syd Scheller |
+| 01.12.2026 | 12. Gesang: Sirenen, Skylla und Charybdis, Helios' Rinder |Carlotta Maerevoet |
 | 08.12.2026 | Ankunft auf Ithaka, Gesänge 14&15 | -- |
 | 15.12.2026 | Gesänge 16&17  | -- |
 | 21.12.2026 - 03.01.2027 | **unterrichtsfrei; Über den Jahreswechsel: Lektüre 7,8,13**| |--|
 | 05.01.2027 | Gesänge 18&19 | -- |
 | 12.01.2027 | keine Sitzung: Vollversammlung | -- |
 | 19.01.2027 | Gesänge 20&21 | -- |
-| 26.01.2027 | Gesänge 22&23 | -- |
+| 26.01.2027 | Gesänge 22&23 |Ilafe Aouda|
 | 02.02.2027 | Gesänge 23&24 - **Abschlussdiskussion** | -- |
 
 
