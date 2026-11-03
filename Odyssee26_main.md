@@ -263,6 +263,38 @@ Wolfgang Schadewaldt: von Homers Welt und Werk. Stuttgart 1951
 
 ### Gesänge I-IV: Die Telemachie
 
+###  Protokoll von Umed Ahmad
+
+**Funktion der Telemachie:**
+
+Die Sitzung wird eingeführt mit der Frage, weshalb die ersten vier Gesänge der Odyssee als Telemachie bezeichnet werden und welche Funktion diese Bezeichnung innerhalb des Werkes erfüllt. Deutlich wird, dass die Bezeichnung auf Telemachos, den Sohn des Odysseus, welcher im Mittelpunkt des Abschnitts steht, verweist. Entscheidend ist jedoch die weiterführende Frage, warum die Odyssee mit seiner Geschichte beginnt, anstatt mit der des Odysseus. In der Diskussion werden hierzu mehrere Aspekte und Funktionen erwähnt. Zum einen führt die Telemachie in die Götterwelt ein und stellt die aktuelle Lage von Ithaka ohne den Odysseus dar (Gesang 1, 22-95). Zum anderen ermöglicht sie es, Telemachos als eigenständige Figur zu verstehen. Da er seinen Vater nicht bewusst kennt, muss er sich dessen Wichtigkeit erst durch die Erzählungen anderer erschließen. Seine Suche und Reise werden dementsprechend als eine Art Aventüre beziehungsweise Entwicklungsgeschichte verstanden, in der er hauptsächlich als Handelnder agiert. Der Vergleich mit Orestes (Gesang 1,298-302) verdeutlicht Telemachos’ Entwicklung vom passiven Sohn zu einer eigenständig handelnden Figur. Während Orestes seinen ermordeten Vater, Agamemnon, rächt, muss Telemachos sich durch seine Reise und die Übernahme von Verantwortung bewähren. 
+
+Zusätzlich wird die Unterscheidung zwischen Unitariern und Analytikern besprochen. Während die einen die Odyssee als gesamtes, einheitliches Werk betrachten, gehen die anderen von unterschiedlichen Bestandteilen aus, welche zusammengefügt wurden. Hierfür ist der Anlass unter anderem der scheinbare Neubeginn der Erzählung im fünften Gesang. Dieser Teil der Sitzung verdeutlicht, dass die Telemachie sowohl als eigenständiger Abschnitt als auch als Vorbereitung der weiteren Handlung betrachtet werden kann.  
+
+**Athenes Rolle und die Gott-Mensch-Interaktion:**   
+
+Ein weiterer Schwerpunkt liegt auf der Frage, welche Rolle Athene bei Telemachos’ Entwicklung einnimmt. Dabei wird betont, dass sie als Rat- und Impulsgeberin auftritt und nicht unbedingt seine Handlungen vollständig übernimmt. Jedoch wird dem zugestimmt, dass Athene durch ihre Unterstützung seine Selbstständigkeit fördert. Weitergehend wird diskutiert, weshalb Athene zunehmend in männlichen Gestalten erscheint, wie beispielsweise in Gestalt des Mentes (Gesang 1 , 96-112; 2, 267-295). Dies wird als Besonderheit der Gott-Mensch-Interaktion erläutert. Gottheiten nehmen eine menschlich wahrnehmbare Gestalt an, da Menschen sie nicht unmittelbar in ihrer eigenen Erscheinung wahrnehmen können. Parallel erfüllt die Verkleidung eine weitere Funktion, da Athene als erfahrener männlicher Ratgeber auftritt.   
+Es erschließt sich die Frage, wann eine Gottheit trotz der menschlichen Verkleidung erkannt wird. Hier wird der Begriff Anagnorisis als Erkennen beziehungsweise Wiedererkennen erläutert. Athenes Göttlichkeit wird Telemachos bereits früh bewusst (Gesang 1, 319-324). Es lässt sich feststellen, dass menschliche Verkleidungen unterschiedliche Formen der Begegnung zwischen Menschen und Göttern ermöglichen.  Ergänzend wird Athenes Beteiligung an der Bestrafung der Griechen nach dem Trojanischen Krieg angesprochen. Dies verursacht ein Spannungsverhältnis zu ihrer späteren Unterstützung des Odysseus. 
+
+**Gastfreundschaft und soziale Beziehungen:** 
+
+Anhand der Begegnungen mit Nestor und Menelaos wird die Gastfreundschaft untersucht (Gesang 3,1-101; 4,20-67). Fremde werden zunächst empfangen, bevor man sie nach ihrer Herkunft fragt. Als Begründung wird diskutiert,  dass sich hinter einem Gast eine Gottheit verbergen könnte. Der Verweis auf *Zeus Xenios*, den Schutzherrn der Fremden, verdeutlicht die religiöse Bedeutung. Die Frage, wie Menschen einander kennenlernen, führt zur Bedeutung von Herkunft, Abstammung und familiären Verbindungen (Gesang 3,69-101). Dementsprechend wird die genealogische Erzählung angesprochen. Darunter versteht man die Darstellung einer Person über ihre Abstammung und Familiengeschichte, wodurch ihre Identität und gesellschaftliche Stellung verdeutlicht werden. 
+
+**Agamemnons Tod und die Heimkehrerzählungen:**   
+
+Auf Grundlage von Nestors Berichten wird die Funktion der Agamemnon-Erzählung näher betrachtet. (Gesang 3, 193-200; 253-312). Seine Ermordung nach der Rückkehr aus Troja verdeutlicht, dass Heimkehr nicht zwangsläufig Sicherheit oder Ordnung bedeutet. Sein Schicksal bildet damit einen Vergleich für die bevorstehende Heimkehr von Odysseus.
+
+**Telemachos’ Entwicklung und das Männerbild:**    
+
+
+Anhand von Telemachos' verborgenen Tränen bei Menelaos (Gesang 4,113-119) wird das homerische Männerbild diskutiert. Möglicherweise schämt er sich oder möchte unerkannt bleiben. Beide Deutungen sind möglich. Der Vergleich mit Achilleus aus der Ilias zeigt, dass Weinen nicht grundsätzlich als unmännlich gilt.Weiterhin wird gefragt, ob Telemachos erwachsen werden oder eine männliche Herrschaftsrolle übernehmen soll. Solange Odysseus' Schicksal ungeklärt ist, kann er dessen Stellung nicht vollständig einnehmen. Ebenso bleibt die Frage offen, ob er die Rolle seines Vaters übernehmen würde bei Penelopes Tod oder wem die Herrschaft Ithakas sonst gewährt wird.  
+   
+**Weibliche Handlungen und gesellschaftliche Macht:**  
+
+Penelopes Webelist (Gesang 2, 85-110) dient als Ausgangspunkt für die Frage nach ihrer Handlungsfähigkeit. Sie hält die Freier hin, indem sie ein Leichentuch tagsüber webt und nachts wieder auf trennt. In der Sitzung wird erst später klar, dass dieses nicht für Odysseus selbst gedacht war, sondern für dessen Vater Laertes. Im Vergleich mit Athene wird der Unterschied deutlich, zwischen persönlicher Handlungsfähigkeit und göttlicher Macht. Im Unterschied zu Athene, kann Penelope nicht trotz ihrer Eigenständigkeit Odysseus’ Herrschaft übernehmen. Abschließend wird Helena behandelt (Gesang 4,120-146; 219-264). Unterschiedliche Überlieferungen stellen ihr Handeln als freiwillig, erzwungen oder göttlich beeinflusst dar, wodurch sich das Ausmaß ihrer Verantwortung verändert.
+
+Offen blieben insbesondere Fragen nach Telemachos' möglicher Herrschaftsnachfolge, dem Auslöser von Penelopes Webelist und Helenas persönlicher Verantwortung.
+
 
 
 
