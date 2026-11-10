@@ -60,7 +60,7 @@ Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür we
 | **20.10.2026** | **Eröffnung, Organisatorisches, Prooimion** | **Protokoll** |
 |------------|------------------------------|---------|
 | 27.10.2026 |Telemachie, Gesänge 1-4 |Umed Ahmad |
-| 03.11.2026 |Kalypso und Nausikaa, Gesänge 5&6 |Mojda Samadi |
+| 03.11.2026 |Kalypso und Nausikaa, Gesänge 5&6 |Maria Vieland; Helena Moor|
 | 10.11.2026 | 9. Gesang: Odysseus, Kikonen, Polyphem |Nikolai Kruscha; Luisa Hiss; Lisanne Schulze |
 | 17.11.2026 | 10. Gesang: Aiolos, Lastrygonen, Kirke  |Liska Grieve; Rojin Sayak; Hendrik Oehmke | 
 | 24.11.2026 | 11. Gesang: Unterwelt |Syd Scheller; Vincent Wöstoff; Arian Alija |
