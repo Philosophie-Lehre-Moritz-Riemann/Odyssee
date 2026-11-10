@@ -297,7 +297,90 @@ Offen blieben insbesondere Fragen nach Telemachos' möglicher Herrschaftsnachfol
 
 
 
+## Sitzung am 3.11.
 
+### Protokoll von Helena Mohr
+
+Thema: Kalypso und Nausikaa, Gesänge 5&6
+
+**Parallelen zur Telemachie**
+
+Die Sitzung beginnt mit den Parallelen, die sich zwischen dem Beginn des fünften Gesangs und dem Beginn der Telemachie ziehen lassen. Es wurden mehrere Aspekte genannt. Der fünfte Gesang startet ähnlich wie der erste Gesang mit einer Götterversammlung. Während in dem ersten Gesang Athene von Zeus nach Ithaka geschickt wird, um Telemachos auf seine Reise zu schicken (vgl. S.7 Z.88ff.), sendet der Göttervater im fünften Gesang Hermes, den Götterboten, los, um Kalypso mitzuteilen, dass sie Odysseus gehen zu lassen habe (vgl. S.72 Z.29ff.). Somit besteht eine erzählerische Parallele zwischen den beiden Gesängen, wobei auch anzumerken ist, dass sie auch zeitlich parallel verlaufen. Auch zu erwähnen ist, dass Poseidon in beiden der genannten Gesänge dagegen ist, Odysseus gehen zu lassen.
+
+**Begegnung Kalypso - Hermes**
+
+Bei der Begegnung zwischen Hermes und Kalypso ist Kalypso zunächst nicht einverstanden damit, Odysseus gehen zu lassen, da sie ihn zum Gatte nehmen und mit ihm glücklich sein will. Hierbei wurde in der Sitzung bemerkt, dass Odysseus, der als unglücklich beschrieben wird (vgl. S. 73 Z.81ff.), nicht beachtet wird. Letztendlich gibt Kalypso aber nach, was wir in der Sitzung damit begründeten, dass es unter den Göttern eine Rangordnung gibt und sie, als vom Olymp verbannte Nymphe und Tochter Poseidons, Zeus zu gehorchen hat.
+
+**Begegnung Kalypso - Odysseus**
+
+Kalypso überbringt Odysseus die Nachricht, dass er gehen soll und gibt ihm eine Axt, damit er sich ein Floß bauen kann (vgl. S.75 Z.162ff.). Im Plenum wird vermutet, dass diese Axt für Odysseus' Kunstfähigkeit stehe und er durch das Erlangen der Axt seine Fähigkeit listenreich zu sein zurückerlangt, da er bei vielen seiner Listen Sachen erschafft, die ihn in seinen Plänen unterstützen sollen. Hierzu wurde hinterfragt, warum Odysseus nicht früher schon gegangen ist, wo er doch offensichtlich nach Hause will. Es wird argumentiert, dass Odysseus erst durch das Geschenk der Axt seine eigenen Handlungen zurückerlangt hat und er vermutlich nicht weit gekommen wäre, wenn er ohne Kalypsos Einverständnis versucht hätte, zu gehen. Ebenfalls angesprochen wird das scheinbare Interesse, das Odysseus, trotz seiner Unzufriedenheit, an Kalypso hat. Obwohl Odysseus nach Hause will, scheint er schöne Momente mit ihr verbracht zu haben, in den geschätzten sieben Jahren, die er bei ihr verbracht hat. Dies wird vor allem deutlich, als Odysseus und Kalypso sich, bevor Odysseus sich auf seine Reise vorbereitet, voneinander verabschieden, indem sie „genossen die Liebe, beieinander verweilend" (S.77, Z.227). Aufgrund dessen kam das Plenum zu dem Entschluss, dass es Odysseus bei Kalypso gar nicht so schlecht zu ergehen scheint, wie zunächst vermutet, da bei Kalypso zu verweilen wohl kein Übel war, sondern einfach nicht so ersehnt wie seine Heimreise.
+
+**Odysseus' Heimreise**
+
+In der letzten Sitzung kam die Frage auf, warum Odysseus unbedingt Heim kehren will. Hierzu wurde zunächst argumentiert, dass Ithaka seine Heimat sei und seine Frau dort auf ihn warte. Andererseits könnte auch die Herrschaft und Macht, die Odysseus in Ithaka genießen darf, eine Rolle spielen, da er diese bei der göttlichen Kalypso nicht hat. Zudem anzumerken ist die Tatsache, dass Odysseus alles, was er hatte, verloren hat, und der Gedanke, nach Hause zu kommen, alles ist, was ihm noch bleibt. Auch interessant ist, dass Odysseus später, als er seine Reise auf dem Floß antritt, behauptet, er wäre lieber als Held gestorben, als diese Reise auf sich zu nehmen (vgl. S.80 Z.308ff.). Es ist zu bedenken, dass Odysseus dies aus einem Zustand der Verzweiflung sagt, da er zu diesem Zeitpunkt von Poseidon mit Meer und Himmel angegriffen wird (vgl. S.80 Z.339f.). Trotzdem bleibt die Frage, warum genau er dies sagt und was genau er damit meint, zunächst offen.
+
+**Treue im Bezug auf Odysseus und Penelope**
+
+Als nächstes wurde die Treue und wie sie sich in Odysseus und Penelope unterschiedlich aufweist angesprochen. Den Aspekt der Treue kann man in _Odyssee_ auf mehrere Arten betrachten. Odysseus ist Penelope auf die Weise treu, dass er zu ihr nach Hause kommen möchte, auch wenn er sich mit Kalypso vergnügt (vgl. S.75 Z.153). Bei Penelope selbst hingegen besteht ihre Treue Odysseus gegenüber darin, dass sie auf ihn wartet und in der Zeit keinen anderen zum Mann nimmt (S.12 Z.249ff.), und ihre Neuvermahlung sogar bewusst hinauszögert (S.21 Z.104f.). Es wurde argumentiert, dass Penelope ein gewisses Ansehen aufrecht zu erhalten hat, als Frau des Königs und Helden Odysseus und somit nicht nur ihrem Mann, sondern auch ihrem König treu bleiben _muss_. Gegen Odysseus Treue spricht, dass er Kalypso zustimmt, als sie meint, sie sei schöner als Penelope. Hierbei kam das Plenum zu dem Entschluss, dass Odysseus seine Worte vermutlich bewusst wählt, um die bestmögliche Situation für ihn zu erreichen, also in diesem Falle, um Kalypso zu beschwichtigen. Dazu kommt, dass Odysseus, als er von seiner geplanten Heimreise erfährt, erst sichergeht, dass ihm seine Sicherheit garantiert ist, da er ohne diese nicht aufzubrechen gedenkt (vgl. S.76 Z.177ff.), was ebenfalls so gedeutet werden kann, dass die Heimkehr bei Odysseus nicht bedingungslos gewünscht ist.
+
+**Poseidon**
+
+Poseidon weist Odysseus gegenüber aggressives Verhalten auf, indem er ihn während seiner Reise auf dem Floß mit Wellen und Stürmen angreift. Bekannt ist, dass Odysseus den stärksten der Zyklopen, welche als Kinder Poseidons gelten, geblendet hat und Poseidon diesbezüglich sehr nachtragend ist (vgl. S.7, Z.68ff.). Vermutlich ist er zudem verärgert über die Entscheidung der Götterversammlung, Odysseus Heimkehren zu lassen. Andererseits wurde auch argumentiert, dass sein älterer Bruder Zeus derjenige ist, der ihn zurechtweist und dies wahrscheinlich seine Wut nur verstärkt. Eine Frage, die zu Poseidons Zorn aufkam, war, warum er Odysseus nicht umgebracht hat, bevor Zeus Odysseus Heimkehr genehmigte. Einerseits könnte es daran liegen, das Poseidon ihn vielleicht gar nicht umbringen will, sondern eher mit ihm „spielt", wie es ein Raubtier mit seiner Beute macht. Andererseits darf Poseidon ihn in der Geschichte nicht töten, da die Geschichte mit Odysseus' Tod vorbei wäre. Auch anzumerken ist, dass Odysseus unter Athenes Schutz steht und im Laufe der Geschichte von mehreren Charakteren gerettet wird, wie beispielsweise Athene und Ino (vgl. S80 Z.339ff.), wobei letztere als eine Deus ex Machina, also in diesem Fall das überraschende Eingreifen einer Gottheit, fungiert. Somit ist zur Ungunst Poseidons die Gegenposition deutlich stärker vertreten als die seine.
+
+**Nausikaa**
+
+Nausikaa ist eine sterbliche Tochter eines Königs, die im heiratsfähigen Alter zu sein scheint, die einen Gatten sucht. Bei der Begegnung von Nausikaa und Odysseus ist Odysseus dreckig und unbekleidet und Nausikaa bietet ihm Kleidung an und lässt ihn sich säubern, bevor sie ihn zu ihrem Vater bringt. Hier wird also wieder der Aspekt der Gastfreundschaft aufgegriffen, der in der vorherigen Sitzung bereits angesprochen wurde und es wird bestätigt, dass die Gastfreundschaft auf Zeus zurückzuführen ist (vgl. S.91 Z.187ff.). In der Sitzung wurde aufgegriffen, dass Odysseus, bevor er zum König gebracht wird, erst neue Kleidung gegeben wurde, damit er reich aussieht. Hier ist die Frage aufgekommen, inwiefern Zeus' Gesetz denn wirklich für alle gilt, wenn man erst wohlhabend erscheinen muss, damit man Gastfreundschaft erfährt.
+
+**Literaturnachweis:**
+
+Homer: Odyssee. Aus dem Griechischen übersetzt und kommentiert von Kurt Steinmann. Mit einem Nachwort von Walter Burkert. München, Random House 2007.
+
+
+### Protokoll von Maria Vieland
+
+**Gesänge 5&6 Kalypso und Nausikaa**
+
+Zu Beginn des fünften Gesangs tritt erneut die Götterversammlung als beratendes Gremium zusammen (vgl. S.71, Z.3 ff). Es wurde festgestellt, dass Homer einen zeitlichen, zur Telemachie parallelen, Handlungsstrang geschaffen hat, der die Perspektive nun auf Odysseus richtet. Dieser wird auf der Insel Ogygia von der Nymphe Kalypso festgehalten (vgl. S.71, Z.13 ff.). Während Athene sich für die Heimkehr Odysseus einsetzt und nach Ithaka geschickt wird, begibt sich Hermes, als göttlicher Bote, zu Kalypso, um ihr den Befehl Zeus mitzuteilen (vgl. S.71, Z.22 ff.). Herauszustellen war, dass Zeus dabei eine übergeordnete Stellung als Göttervater einnimmt und letztlich über die Entscheidungsgewalt im Olymp verfügt.
+
+**Götterhierarchien**
+
+Anhand des Aufeinandertreffens von Hermes und Kalypso wurden weitere Machtverhältnisse diskutiert. Die Göttin ist zur Einsamkeit auf die Insel verbannt und ihr Wunsch mit Odysseus als Gatten glücklich zu werden, bleibt ihr verwehrt (vgl. S.75 Z.137 ff.). Mithilfe von Analogiegeschichten (S.74 Z.118 ff.) versucht sie ihre Situation zu untermauern und zeigt ein Muster auf, nach dem es Göttinnen auch in der Vergangenheit nicht vergönnt war, menschliche Männer an sich zu binden. Als wesentlicher Aspekt wurde verdeutlicht, dass selbst sie als Göttin nicht frei über ihr Glück verfügen kann und den Machtansprüchen des Olymps unterliegt. In diesem Zusammenhang zeigte sich auf der anderen Seite, welche untergeordnete Rolle Odysseus` Wünsche und Bedürfnisse gegenüber göttlichen Belangen spielen. Dieser wird gegen seinen Willen festgehalten und ist sehr unglücklich über die Situation (vgl. S.75, Z.159 ff.).
+
+**Odysseus zwischen Willen und Willenlosigkeit**
+
+Odysseus wird als gebrochener, trauriger Mann eingeführt, der sich tagsüber am Rane des Salzmeeres wehmütig nach seiner Heimat sehnt und nachts der Nymphe den Beischlaf leisten muss (vgl. S.75, Z.154). Das Plenum setzte sich mit Odysseus im Spannungsfeld zwischen der Ergebenheit gegenüber Kalypso und seinem starken Drang nachhause zu wollen auseinander. Als Analogiebeispiel wurde aufgeführt, wie auch Helena von Troja von Athene gefügig gemacht wurde und zeigt, wie sich Götter Macht über die Menschen verschaffen können. Anhand von Odysseus als passiver und wartender Charakter wurde diese Thematik gestützt. Auffällig war, dass Odysseus nach sieben Jahren, die er bereits auf der Insel verweilte, erst wieder zu einer handelnden Person wird, nachdem Kalypso ihm ihre Erlaubnis aufzubrechen mit einem Schwur zusichern muss (vgl. S.76, Z.173 ff.). Der Akt ihm die Axt zu überreichen, um sich ein Floß zu bauen (vgl. S.77, Z.233 ff.), wurde metaphorisch gedeutet als Zurückerlangen seiner Freiheit über Handwerk und Listenreichtum. Erstmals wird er mit vollem Namen angesprochen (vgl. S.77, Z.203) und rückt in den Fokus als aktiv handelnde Person, die wieder zu Kräften kommt. Willentlich lehnt er die Schönheit und Unsterblichkeit ab, die Kalypso ihm verspricht, sollte er bei ihr bleiben (vgl. S.77, Z.206 ff.). Daraus ließ sich ableiten, dass er ein sterbliches Leben einem unsterblichen Heldendasein vorzieht.
+
+**Konzept von Treue**
+
+Hinsichtlich Odysseus` Verhalten bei Kalypso wurde das Konzept von Treue näher beleuchtet. Dass Odysseus die letzte Nacht mit Kalypso genießen kann (vgl. S.77, Z.227), warf die Frage nach seiner Treue zu Penelope und seines vermeintlich dringenden Wunsches nach Heimkehr auf. Doch auch wenn Odysseus Penelope nicht aktiv vor Kalypso verteidigt und seine Liebe nicht offenlegt, wurde sich geeinigt, dass der starke Wunsch nach Heimkehr und das Ablehnen göttlicher Angebote wie Unsterblichkeit und Schönheit ein indirekter Liebesbeweis und ein Ausdruck seiner Treue zu Penelope sind. Penelopes Treue hingegen äußert sich in der ehelichen Zurückweisung der Freier, wobei geäußert wurde, dass sie sich in einer prekären Position befindet, Ruf und Haus durch ihre Treue schützen zu müssen, nicht so wie Helena, die als prototypische Ehebrecherin benannt wurde.
+
+
+**Odysseus als Spielball der Götter**
+
+Nachdem Odysseus aufgebrochen ist, wird er erneut zum Spiel göttlicher Mächte. In Form von heftigen Wellen und Unwetter begegnet er Poseidon, Zeus` Bruder, der ihn vehement von seiner Überfahrt ins Phaiakenland abhalten will (vgl. S.80, Z.339 ff.). Odysseus, der dem Ertrinken nahe ist, wünscht sich angesichts der Naturgewalten zeitweise lieber in Troja als Held gestorben zu sein, anstatt heimzukehren (vgl. S.80, Z.308 ff.). Sein neu gewonnener Lebenswille wird durch das Eingreifen der Götter erneut erschüttert. In dieser Situation erschien dem Plenum Odysseus zunehmend als passiver Spielball der göttlichen Mächte, denen er sich ausgeliefert sieht. Nur durch erneutes Eingreifen der Göttinnen Ino und Athene kann Odysseus aus seiner ausweglosen Lage gerettet werden. Indem Odysseus Inos Aufforderung folgt und sein Floß aufgibt (vgl. S.81, Z.341 ff.), überlässt er sein Schicksal erneut der göttlichen Führung. Daraus ließ sich ableiten, dass gegen göttliche Gewalt nur göttliche Hilfe ankommt und unterstreicht erneut wie determiniert Odysseus von dem Los der Götter in dieser Situation ist.
+
+**Poseidon als Gegenmacht – Warum tötet er Odysseus nicht?**
+
+Die Rolle Poseidons als widerspenstiger Gegenspieler zu Zeus warf dabei eine interessante Frage auf. Zuvor wurde Zeus als höchste göttliche Instanz dargestellt, deren Willen sich die übrigen Götter kaum widersetzten können. Da Poseidon Zeus` Bruder ist, wurde darauf hingewiesen, dass sie sich in der Götterhierarchie auf einer ähnlichen Machtebene bewegen. Daraus ergab sich wiederum die Frage, warum Poseidon Odysseus nicht tötet. Als mögliche Erklärungen wurden mehrere Aspekte diskutiert. Neben dem banaleren Grund, dass der Protagonist eines Heldenepos nicht vor Anfang der Geschichte getötet werden sollte, steht Odysseus unter dem Schutz von Athene und kann durch Glück und List stets entkommen.
+
+**Sechster Gesang: Gastfreundschaft und Nausikaa**
+
+Im Phaikenland treffen, durch das Zutun von Athene, Odysseus und Nausikaa, die königliche Tochter, aufeinander (vgl. S.89, Z.115 ff.). Ein starker Kontrast entsteht zwischen dem nackten, verwahrlosten Odysseus und der schönen Königstochter im heiratsfähigen Alter. Durch Athenes Eingreifen wird Odysseus äußerlich verschönert (vgl. S.93, Z.235) und möglicherweise zugleich so verändert um als berühmter Held vorerst unerkannt zu bleiben. Die göttliche Verschönerung wurde in der Sitzung als Eintrittskarte in die Gesellschaft der Phaiaken verstanden. Ein gepflegtes und herrschaftliches Aussehen würde ihm die Aufnahme ins Königshaus und den Zugang zu einem Schiff für die Weiterreise erleichtern. Damit wurde das Thema „Zeus Ideal der bedingungslosen Gastfreundschaft“ aus den ersten Gesängen erneut aufgegriffen und negativ belegt. 
+
+**Zwischen menschlicher Handlungsfreiheit und göttlicher Determination**
+
+Es kam die Frage auf wie viel Handlungsfreiheit einem Menschen bei göttlicher Intervention bleibt. Es wurde beobachtet, dass Achilleus sich seinem Schicksal, sterben zu müssen im Kampf um Troja, vergleichsweise ergeben gegenüberstellt. Odysseus jedoch aufgrund seines starken Willens zur Rückkehr in die Heimat, sich durch List und Ideenreichtum dem Los der Götter stets zu entziehen versucht. Homers Odyssee bietet damit eine wichtige Grundlage zur Untersuchung antiker Vorstellungen von freiem Willen und Schicksalsbestimmung.
+
+**Literatur:** 
+
+Steinmann, Kurt aus dem Griechischen übersetzt und kommentiert:
+
+Homer: Odyssee (München: PenguinVerlag, 2007, 3. Auflage)
+
+
+## Sitzung  am 10.11.2027
+
+Textgrundlage: Odyssee, 9. Gesang
 
 
 
