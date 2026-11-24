@@ -65,12 +65,12 @@ Die ersten Bücher werden wir in verschiedenen Übersetzungen lesen. Hierfür we
 | 17.11.2026 | **Sitzung entfallen** |Liska Grieve; Rojin Sayak; Hendrik Oehmke | 
 | 24.11.2026 | 10. Gesang: Aiolos, Lastrygonen, Kirke |Liska Grieve; Rojin Sayak; Hendrik Oehmke; Syd Scheller; Vincent Wöstoff; Arian Alija |
 | 01.12.2026 | 11. Gesang: Unterwelt & 12. Gesang: Sirenen, Skylla und Charybdis, Helios' Rinder |Carlotta Maerevoet; Noah Grünhagen; Femke Düsterwald|
-| 08.12.2026 | Ankunft auf Ithaka, Gesänge (13),14&15 | Ben-Luka Zander; Tim Urbat; Calvin Hamila; Marie Denker  |
+| 08.12.2026 | Ankunft auf Ithaka, Gesänge 13, 14, (15) | Ben-Luka Zander; Tim Urbat; Calvin Hamila; Marie Denker  |
 | 15.12.2026 | Gesänge 16&17  |Luisa Aroutunjan; Hannes Kümmerlen; Rawen Amma; Nisa Sezer |
 | 21.12.2026 - 03.01.2027 | **unterrichtsfrei; Über den Jahreswechsel: Lektüre 7,8,13**| |--|
-| 05.01.2027 | Gesänge 18&19 | Veldan Yapisik; Alexandra Schott; Lucas Joswig; Donia Ali  |
+| 05.01.2027 | Gesänge 19&20 | Veldan Yapisik; Alexandra Schott; Lucas Joswig; Donia Ali  |
 | 12.01.2027 | keine Sitzung: Vollversammlung | -- |
-| 19.01.2027 | Gesänge 20&21&22 | Helin Altundag; Tessa Radtke; Lisa Hassansara; Keyhan Amini; Ece Dursun |
+| 19.01.2027 | Gesänge 21&22 | Helin Altundag; Tessa Radtke; Lisa Hassansara; Keyhan Amini; Ece Dursun |
 | 26.01.2027 | Gesänge 23&24 |Ilafe Aouda; Felix Rewer, Silan Hawija; Ibrahim Saleh|
 | 02.02.2027 | **Abschlussdiskussion** | -- |
 
