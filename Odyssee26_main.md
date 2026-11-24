@@ -382,10 +382,221 @@ Homer: Odyssee (München: PenguinVerlag, 2007, 3. Auflage)
 
 Textgrundlage: Odyssee, 9. Gesang
 
+### Protokoll von Luisa Hiss
+
+**Streitigkeiten der Götter innerhalb der griechischen Mythologie**
 
 
+Anfangs sprachen wir über den siebten und achten Gesang, wobei vier Punkte
+stärker hervorgehoben wurden. Als erstes wurde Athene als lenkende Hand an
+Odysseus’ Seite als interessant wahrgenommen. Athene tritt Odysseus in
+verschiedensten Formen gegenüber, im Gegensatz zu Telemachos ist Odysseus
+jedoch die göttliche Anwesenheit nicht bewusst.
+Als zweites wurde hinterfragt, weshalb der Sänger von Hephaistos und dem
+Fremdgang der Aphrodite erzählt. Es wurde erläutert, dass dies Ausschnitte der
+griechischen Mythologie innerhalb der Mythologie sind. Es ist ein Bild im Bild (Mise
+en abyme), dass ein größeres Bild aufzeigt und in gewisser Weise hilft, die Odyssee
+besser zu verstehen. Es zeigt die Genealogien der Götter und deren Streitigkeiten,
+die diese auch gerne durch Menschen austragen, als Beispiel wurde der
+Trojanischer Krieg gegeben. Die Götter nutzen die Menschen als Spielfiguren, was
+auch eine Erklärung für Athenes häufiges Eingreifen in Odysseus Leben ist.
 
 
+**Die verschiedenen Zeitalter**
+
+
+Als drittes wurde über Odysseus’ Kränkung durch die Herausforderung zum
+Wettkampf diskutiert und darüber, ob diese gerechtfertigt ist. Viele interpretierten
+die Herausforderung als frech, weil Odysseus von den jungen Männern implizit als
+alt und schwach dargestellt wird, durch die Art und Weise, wie sie ihn zum
+Wettkampf auffordern. Odysseus wirft den Diskus daraufhin am weitesten.
+Innerhalb des Kurses wurde jedoch infrage gestellt, wie viel davon Odysseus’
+eigenes Können ist und wie viel davon wieder auf Athene zurückgeht. Dagegen
+wurde argumentiert und das brachte uns zum vierten Punkt, dass Odysseus noch
+die damalige heroische Zeit verkörpert, weshalb seine eigene Kraft nicht infrage
+gestellt werden sollte. Die Odyssee markiert den Übergang vom Heroischen zum
+bürgerlichen (Eisernen) Zeitalter. Nach Hesiods Einteilung verlieren die Menschen
+von Generation zu Generation an Stärke. Odysseus, der ein Held ist und aus der
+heroischen Zeit stammt, befindet sich unter Menschen aus dem Eisernen Zeitalter.
+Das stellt ihn automatisch kräftemäßig über diese und widerspricht somit Athenes
+Einfluss in diesem Fall.
+Eine generelle Auffälligkeit ist, dass sich einzelne Verse und teilweise Textpassagen
+wiederholen. Dies wird darauf zurückzugeführt, dass die griechische Mythologie
+mündlich gedichtet wurde und einzelne Wiederholungen u. a. als Refrain dienten.
+
+
+**Odysseus Identität und seine Selbstwahrnehmung**
+
+
+Der achte Gesang endet mit Alkinoos’ Frage nach Odysseus’ Namen und Herkunft
+und im neunten Gesang gibt Odysseus seine Identität preis. Die erste Frage, die sich
+dort stellte, lautet: Warum gibt Odysseus sich so spät zu erkennen? Eine Vermutung
+war, dass Odysseus zunächst herausfinden will, wie die Phaiaken sind und ob er
+überhaupt willkommen ist. Dem wurde entgegengesetzt, dass die Phaiaken als ein
+gastfreundliches Volk bekannt sind. Dieser Diskurs endete im Unwissen. Es wurde
+jedoch darauf verwiesen, dass die Antwort auf diese Frage in den folgenden
+Gesängen noch gegeben wird.
+Generell ist der neunte Gesang ein Monolog des Odysseus, was viele Einblicke in
+seine Eigenwahrnehmung ermöglicht. Ab Vers 19 wurde seine arrogante, stolze und
+eingebildete Selbstbeschreibung hervorgehoben. Dabei fiel vor allem auf, wie
+wichtig es ihm ist, den Zuhörern nahezubringen, dass er von Frauen und Göttinnen
+begehrt wird. Er stellt sich als ehrenhaften Mann dar, der sich nicht verführen lässt
+uns sogar seine Heimkehr der Unsterblichkeit bevorzugt. Er beschreibt sich als
+Mann, der sich nach dem Vaterland sehnt, es jedoch nicht erreicht, weil die Götter
+es nicht zulassen. Es wurde angemerkt, dass er sich als Mensch vorstellt, sich den
+anderen jedoch als „Held“ überlegen fühlt und seinen Ruhm preist (V. 20). Er nennt
+sich Städtezerstörer, was ein Beiname Poseidons ist, und impliziert damit, dass er
+mit den Göttern auf dem gleichen Niveau steht.
+
+
+**Piraterie als Norm**
+
+
+Der Überfall und die Zerstörung der Stadt der Kikonen wird in nur zwei Versen
+nebenbei erwähnt. Sie wurde in der Sitzung aufgegriffen, da man sich über die
+Gleichgültigkeit gegenüber diesem Ereignis wunderte. Innerhalb der Diskussion
+ergab sich, dass Piraterie im antiken Griechenland eine sozial vollkommen
+akzeptierte Norm ist und dass die Kikonen keine Griechen sind, was ebenfalls eine
+solche Behandlung rechtfertigt. Im antiken Griechenland unterscheidet man
+nämlich unter Griechen und „nicht- Griechen“, die als Barbaren bezeichnet und als
+minder angesehen werden. (Siehe Literatur) Dies erklärt ebenfalls seinen Überfall
+beim Kyklopen Polyphem, den Odysseus auch als Barbaren bezeichnet. Das Wort
+Pirat leitet sich vom altgriechischen Wort „peiran“ ab und bedeutet so viel wie
+wagen oder versuchen.
+
+
+**Das Konzept der Treue zwischen Männern und Frauen**
+
+
+Männer werden bei solchen Überfällen meist umgebracht und Frauen als Beute
+aufgeteilt. Dies brachte uns wieder zu dem Konzept der Treue, welches in den
+Stunden davor bereits angesprochen wurde. Dabei fiel auf, dass Penelope ihrem
+Mann tatsächlich treu bleibt, trotz der vielen Bewerber um sie herum, während
+Odysseus’ Treue eher auf seinem starken Wunsch nach Heimkehr beruht und es
+nicht allzu wichtig ist, was in der Zwischenzeit passiert. Außerdem wurde
+argumentiert, dass die Frauen, die als Kriegsbeute dienen, nicht auf der Ebene von
+Penelope, einer Königin, stehen und deswegen nicht als wirkliches Fremdgehen
+kategorisiert werden. Eine weitere Aufälligkeit ist, dass Odysseus in seiner
+Erzählung häufig Göttinnen erwähnt, die ihn begehren, von seiner frau Penelope ist
+während seiner ganzen Schilderung jedoch nicht die Rede.
+
+
+**Ablenkungen Odysseus’ auf seinem Heimweg**
+
+
+Odysseus erzählt von multiplen Ablenkungen, die ihm auf seinem Heimweg
+widerfahren. Dabei fiel auf, dass diese nicht nur Krieg oder eine Verschwörung der
+Götter gegen ihn sind, wie er anfangs suggeriert, sondern auch weichere Formen
+der Ablenkung, z. B. Odysseus’ eigene Neugier und sein Eigensinn. So kamen wir
+zum Schluss, dass der Besuch bei den Kyklopen aus reiner Abenteuerlust geschieht
+und nicht aus Notwendigkeit für Nahrung. Generell konnotiert er die Kyklopen
+negativ nämlich, als barbarische, hier findet sich die Unterscheidung zwischen
+Griechen und Nicht- Griechen wieder, sich auf die Götter verlassende einäugige
+Riesen, was eine gewisse Doppelmoral mit sich trägt, da er selbst ohne die Hilfe der
+Götter gar nicht mehr am Leben wäre. Eine Vermutung war, dass es daran liegt,
+dass er bitter darüber ist, dass Polyphem ihn in seiner Macht hatte. Ebenfalls fiel
+Odysseus’ Ansprache an seine Männer am Strand der Insel der Kyklopen auf. Dort
+will er die skurrilen Wesen noch kennenlernen und hat keineswegs Vorurteile. Dies
+unterstreicht die vorherige These, dass er gekränkt ist und die Kyklopen deswegen
+so negativ darstellt.
+Odysseus geht mit ein paar seiner Männer in die Höhle des Kyklopen. Nachdem sie
+sich umgeschaut und sich an seinem Essen bedient haben, wollen die anderen
+gehen, Odysseus jedoch nicht. Er ist neugierig auf den Kyklopen. Als dieser kommt,
+rollt er ein Fels vor den Höhleneingang, sodass niemand mehr nach draußen
+gelangen kann, und frisst zwei Männer des Odysseus. Dies wiederholt sich dreimal,
+sodass Odysseus eigenverschuldet sechs Männer verliert. Damit sie freikommen,
+überlegt sich Odysseus eine List. Er sucht die Nähe des Kyklopen, erzählt ihm, sein
+Name ist „Niemand“, und schenkt ihm viel Wein, sodass dieser schläfrig wird. Als
+dieser fest schläft, erhitzt Odysseus einen Olivenstamm in der Glut und rammt ihn
+in das Auge des Kyklopen, der daraufhin erblindet. Als der Kyklop seine Brüder zu
+Hilfe ruft und erzählt, dass „Niemand“ ihm sein Augenlicht genommen hat, glauben
+diese, dass nichts passiert ist. Es wurde erwähnt, dass „Niemand“ auf Altgriechisch
+„outis“ ausgesprochen wird, was eine Ähnlichkeit zum Namen Odysseus aufweist.
+Des Weiteren wurden die verschiedenen Kräfte des Odysseus und des Kyklopen
+gegenübergestellt. Der Kyklop ist zwar körperlich überlegen, Odysseus jedoch
+geistig. Das Zivile steht dem Barbarischen gegenüber und wird diesem
+Übergeordnet. Am Ende als Odysseus entkommen ist und genug Abstand zum Land
+hat, ruft er dem Kyklopen seinen echten Namen zu. Das ist ein großer Fehler, da der
+Kyklop nun Poseidon, seinen Vater, um Rache bittet. Es wurde vermutet, dass
+Odysseus dies aus Stolz tut, weil er will, dass alle wissen, dass er einen Riesen
+bezwingen kann.
+
+
+**Literatur**
+
+Bordat Josef: 3000 Jahre Fremdenhass. Eine kurze Geschichte der Barbarei
+
+[Link](https://jobo72.wordpress.com/2011/12/09/3000-jahre-fremdenhass-eine-ganz-
+kurze-geschichte-der-barbarei-1/) (Zugriff: 15.11.2026)
+
+Homer: Odyssee, Aus dem Griechischen übersetzt und kommentiert von Kurt
+Steinmann, 8. Auflage, erschienen 2007 in der Pinguin Random House
+Verlagsgruppe
+
+### Protokoll von Lisanne Schulze
+
+***Thema der Sitzung:*** _Die Odyssee mit besonderem Schwerpunkt auf dem 9. Gesang_ 
+
+Zu Beginn der Sitzung wurden einige Besonderheiten des 7. und 8. Gesangs angesprochen, bevor der Fokus auf Odysseus' Erzählung über seine Irrfahrten und insbesondere seine Begegnung mit dem Kyklopen Polyphem, dem Sohn des Poseidon, gelegt wurde. Neben dem Handlungsverlauf wurde vor allem die Rolle der Götter, die Bedeutung von Gastfreundschaft und Identität sowie die Charakterisierung des Odysseus als Held behandelt, aber auch kritisch hinterfragt. 
+
+**Rückblick auf den 7. und 8. Gesang** 
+
+Bei der Besprechung von Auffälligkeiten des 7. und 8. Gesangs wurde das erneute Auftreten Athenes in unterschiedlichen Gestalten erwähnt. Zunächst erscheint sie Odysseus in der Gestalt eines jungen Mädchens und führt ihn zum Palast des Königs Alkinoos. Später tritt sie in der Gestalt eines Herolds (des Königs) auf, um die Bewohner der Stadt zusammenzurufen und die Aufmerksamkeit auf Odysseus zu lenken. Als auffällig angemerkt wurde, dass während Telemachos Athene als Göttin erkennt, bei Odysseus nicht ausdrücklich darauf hingewiesen wird, dass er sie ebenfalls erkennt und er sie eher als fremde Person wahrzunehmen scheint. Insgesamt ist Athenes Eingreifen sehr präsent und zeigt klar ihre Rolle als Beschützerin und Unterstützerin. Im Vergleich dazu wurde die unterschiedliche dramaturgische Bedeutung Athenes für Telemachos und Odysseus angesprochen. Für Telemachos ist die Erkenntnis, dass Athene hinter seinem Mentor steht, besonders wichtig, da er dadurch erkennen kann, dass er unter dem gleichen göttlichen Schutz wie sein Vater steht. Bei Odysseus gestaltet sich das Verhältnis zu Athene hingegen differenzierter. Direkte Interaktionen zwischen beiden sind vergleichsweise selten, während Athenes Einfluss häufig indirekt oder metaphorisch zum Ausdruck kommt. Als weitere Besonderheit wurde das Prinzip einer Erzählung innerhalb einer Erzählung angesprochen. Das Epos greift dabei gewissermaßen auf seine eigene soziale Funktion zurück, indem beispielsweise ein Sänger innerhalb des Epos Mythen vorträgt, wird das Erzählen von Mythen selbst wiederum zum Bestandteil der epischen Handlung. Mit Blick auf den 8. Gesang wurde besonders die Bedeutung der Wettkämpfe hervorgehoben. Odysseus wird dabei mit der Erwartung konfrontiert, seine Fähigkeiten unter Beweis zu stellen. Seine teilweise höhnische beziehungsweise spöttische Reaktion lässt sich möglicherweise als Ausdruck eines gekränkten Gemüts verstehen. Am Ende des 8. Gesangs kommt es schließlich zu einem entscheidenden Wendepunkt, da Odysseus schließlich seine Identität offenbart und seine Geschichte durch die Erzählung vor den Phaiaken bekannt wird. 
+
+**Die Handlung des 9. Gesangs: die Begegnung mit Polyphem** 
+
+Im 9. Gesang beginnt Odysseus, den Phaiaken ausführlicher von seinen bisherigen Irrfahrten zu berichten. Bei der Vorstellung seiner Herkunft und Identität betont er seine königliche Stellung als Herrscher von Ithaka sowie seinen Ruhm als Held und "Städtezerstörer“ („Ich zerstörte die Stadt \[...\]“, S. 125, V. 40). Zugleich wird seine starke Verbundenheit mit der Heimat deutlich, die weiterhin das wichtigste Ziel seiner Reise darstellt. Besonders auffällig ist zudem, dass er zwar seine menschliche Seite hervorhebt, sich aber auch gleichzeitig über andere Menschen erhebt und seine Selbstbeschreibung teilweise stolz und arrogant wirkt. Seine Frau Penelope erwähnt er überhaupt nicht, stattdessen stehen vielmehr Ithaka und seine Herrschaft im Vordergrund. Im Anschluss daran berichtet Odysseus von den bisherigen Stationen seiner Reise. Bei den Lotophagen geraten einige seiner Gefährten durch den Verzehr der Lotuspflanze in einen Zustand, in dem sie ihre Heimat vergessen und nicht mehr zurückkehren möchten, wodurch er sie gegen ihren Willen zu den Schiffen zurückbringen muss. Daraufhin gelangen die Griechen auf die Insel der Kyklopen und Odysseus begibt sich mit einigen Gefährten in die Höhle des Polyphem, obwohl dies nicht unbedingt notwendig gewesen wäre. Das könnte auf seine Neugierde und seinen Wunsch zurückzuführen sein, die Kyklopen als Bewohner der Insel kennenzulernen. Jedoch erweist sich Polyphem als Gegenbild zur griechischen Vorstellung von Gastfreundschaft. Anstatt die Fremden freundlich aufzunehmen, sperrt er sie ein und fängt darüber hinaus damit an, mehrere Gefährten zu verschlingen, wodurch seine Darstellung als gewalttätig und unzivilisiert verstärkt wird. Hierbei entsteht aber auch ein Widerspruch, da sich in seiner Höhle durchaus handwerkliche Fähigkeiten und eine gewisse Ordnung erkennen lassen. Als Odysseus erkennt, dass er Polyphem nicht mit körperlicher Kraft überwinden kann, entwickelt er einen Plan, der aus verschiedenen Listen besteht. Zunächst gibt er dem Kyklopen Wein zu trinken und auf dessen Frage nach seinem Namen nennt er sich „Niemand“. Als Polyphem eingeschlafen ist, stoßen Odysseus und seine Gefährten einen erhitzten Holzpfahl in sein Auge und blenden ihn. Seine Hilferufe werden zwar von den benachbarten Kyklopen wahrgenommen, jedoch durch seinen Ausruf „Niemand will listig, nicht gewaltsam mich morden.“ (S. 135, V. 408.) nicht ernst genommen. Anschließend gelingt ihnen die Flucht, indem sie sich unter den Schafen verstecken und so unbemerkt aus der Höhle gelangen. Obwohl Odysseus durch seine List erfolgreich entkommt, gefährdet er seine Flucht anschließend selbst, indem er vom Schiff aus seine wahre Identität preisgibt und Polyphem so verhöhnt. Dieser kann infolgedessen seinen Vater Poseidon um Rache bitten, was weitere Schwierigkeiten auf Odysseus' Heimreise nach sich zieht. 
+
+**Wichtigste Erkenntnisse** 
+
+Insgesamt wird die Bedeutung und Wichtigkeit der Gastfreundschaft herausgestellt. Während die Phaiaken Odysseus im 7. und 8. Gesang großzügig aufnehmen und unterstützen, hält Polyphem die Fremden gefangen und verspeist einige von ihnen. Zu berücksichtigen ist allerdings auch, dass diese ungefragt in seine Höhle eingedrungen und sich an seinen Vorräten bedient haben. Der Kannibalismus verdeutlicht dennoch auf besonders drastische Weise den Gegensatz zwischen einer geordneten Gesellschaft und 
+einer als wild und unzivilisiert dargestellten Lebensweise. Auch die Gegenüberstellung von körperlicher und geistiger Überlegenheit wird deutlich. Trotz seiner körperlichen Unterlegenheit gelingt es Odysseus, Polyphem durch Klugheit und strategische Planung zu überlisten. Dadurch wird seine größte Stärke hervorgehoben, die weniger in seiner körperlichen Kraft als vielmehr in seiner Fähigkeit zur List liegt. Sein Stolz und sein starkes Bedürfnis nach Anerkennung verleiten ihn jedoch dazu, nach der erfolgreichen Flucht seine wahre Identität zu enthüllen. Diese Eigenschaften erweisen sich somit auch als Schwäche, da sein Verhalten letztlich die Rache Poseidons zur Folge hat. Als wichtigste Erkenntnis lässt sich daher festhalten, dass Odysseus als ambivalenter Held auftritt, dessen Klugheit ihn ebenso auszeichnet wie sein Stolz und seine Selbstüberschätzung. Die Begegnung mit Polyphem stellt damit nicht nur den Gegensatz zwischen Zivilisation und Wildheit dar, sondern offenbart auch die Stärken und Schwächen des Odysseus. 
+
+
+### Protokoll von Nikolai Kruscha
+
+**1. Allgemeines**
+
+Die Sitzung begann mit allgemeinen Themen welche losgelöst sind von den Gesängen sind behauptet wurde das die Voraussetzung von der Odyssee sei sich alle Götter streiten. Die Restliche Sitzung wurde mit den Gesängen Acht und Neun gefüllt.
+
+**2. Gesang 8**
+
+**2.1 Odysseus Herausforderung**
+
+Die Sitzung entwickelte sich schnell in eine Diskussion darüber, ob Odysseus von der Herausforderung Laodamas gekränkt, oder zu erschöpft sei um dieser nachzukommen. Die Diskussion in der Sitzung führte schnell zu dem Ergebnis das es unwahrscheinlich sei das er zu erschöpft ist, denn er war bei Kalypso mehrere Jahre nach der Odyssee[^1] Stattdessen wurde eine leichte Kränkung angenommen, zumal Odysseus ihn auch beleidigt[^2] sowie das es auch nicht sicher ist ob Odysseus überhaupt selbst die Stärke bräuchte denn Athene leistete ihm ohnehin beistand.
+
+**2.2 Funktion der Wiederholung**
+
+Die Sitzung beschäftigte sich schnell mit der Frage, warum in der Odyssee immer wieder Textabschnitte im Stil oder sogar im genauen Wortlaut übereinstimmen. Als Erklärung wurde angeführt, dass sich mit festen Formulierungen leichter dichten lässt. Zudem erfüllen sie eine Refrain Funktion und dienen dem Dichter als Gedächtnisstütze, da die Odyssee ursprünglich nur mündlich überliefert wurde. [^3]
+
+**3. Gesang 9**
+
+**3.1 Kikonen Logophagen**
+
+Kurz diskutiert wurde auch die Rolle der Kikonen. Dabei stellte sich die Frage, warum sie überfallen wurden und ob dies zulässig war. Die Gruppe kam zu dem Schluss, dass Überfälle zur See in jener Zeit üblich waren. Anschließend wurde gefragt, ob die Aufteilung der Frauen unter der Mannschaft einen Treuebruch gegenüber Penelope darstellte. Diese Annahme wurde schnell verworfen. Ähnlich verlief das Gespräch über die Lotophagen, deren Episode den Gegensatz zwischen den körperlichen und den geistigen Herausforderungen des Odysseus widerspiegelt.[^4]
+
+**3.2 Polyphem**
+
+Den zweiten großen Abschnitt der Sitzung bildete der Aufenthalt in der Höhle des Polyphems. Odysseus und seine Gefährten dringen in die Höhle ein und machen es sich dort bequem. Die Mannschaft drängt zur Flucht, Odysseus will jedoch bleiben, um den Hausherrn kennenzulernen und Gastgeschenke zu erhalten. Polyphem missachtet das Gastrecht und frisst pro Mahlzeit zwei Gefährten. Als Gastgeschenk für den Wein, den Odysseus ihm reicht, verspricht er, ihn zuletzt zu fressen. Auf die Frage nach seinem Namen antwortet Odysseus, er heiße „Niemand"[^5]. Das wird zur Grundlage seiner List. Nachdem die Gefährten Polyphem das Auge geblendet haben, ruft dieser um Hilfe. Die anderen Kyklopen verstehen jedoch, dass „Niemand" ihm Gewalt antue, und kommen nicht. Am nächsten Morgen entkommen Odysseus und seine Gefährten aus der Höhle, indem sie sich unter den Bäuchen der Schafe festklammern. Odysseus hat die Tiere zuvor jeweils zu dritt zusammengebunden, sodass ein Gefährte unter dem mittleren Tier hängt. Er selbst hält sich am Fell des größten Widders fest. Der blinde Polyphem tastet beim Hinauslassen nur die Rücken der Tiere ab und bemerkt die Männer deshalb nicht. In der Sitzung wurde schnell deutlich, dass Odysseus diese List brauchte, weil er Polyphem körperlich unterlegen war. Den Zorn Poseidons löst allerdings nicht die List aus, sondern die Blendung seines Sohnes und vor allem, dass Odysseus beim Abfahren triumphierend seinen wahren Namen ruft. Er tut dies aus Stolz und Ruhmsucht, denn seine Tat soll bekannt werden und sein Ruhm (griech. kleos) erhalten bleiben. Daraufhin bittet Polyphem seinen Vater um Rache.[^6]
+
+**Literaturverzeichnis**
+
+Homer: Odyssee. Übersetzt von Kurt Steinmann. Penguin Random House 2016.
+
+[^1]: Homerus und Burkert, _Odyssee_. Vgl. Gesang 7. S.96
+
+[^2]: Homerus und Burkert, _Odyssee_. Vgl. Gesang 8. V.175
+
+[^3]: Homerus und Burkert, _Odyssee_. Bsp. Gesang 8. V.93
+
+[^4]: Homerus und Burkert, _Odyssee_. Vgl Gesang 9 V.80
+
+[^5]: Homerus und Burkert, _Odyssee_. Zitat: Gesang 9 V.366-367
+
+[^6]: Homerus und Burkert, _Odyssee_. Vgl. 9 Gesang V. 115-500
+
+
+## Sitzung am 24.11.2026
 
 
 
